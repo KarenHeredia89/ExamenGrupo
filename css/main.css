@@ -1,0 +1,167 @@
+body {
+	font-family: Helvetica;
+}
+.cuadro {
+    padding-top: 70px;
+  	text-align: center; 			
+}
+.iconos {
+	padding-bottom: 10px;
+	font-size: 50px;
+	color: #0dc0c0;
+}
+.sec2{
+	padding: 40px 0px;
+	background-color: rgb(244, 244, 244);
+	
+}
+.laptop h2 {
+	color: #585555;
+	text-align: center;
+	padding: 10px 0px;
+}
+.laptop img {
+	margin-left: 150px;
+	width: 800px;
+}
+.customer img {
+	border-radius: 100%;
+	width: 150px;
+	padding-bottom: 10px;
+}
+.texto {
+	color: #585555;
+}
+.texto p {
+	padding: 10px 90px;
+}
+.bold {
+	font-weight: bold;
+	margin: 10px 0px;
+}
+.contact_us {
+	background-image: url(../img/background/contactus.jpg);
+}
+.brillo {
+	background: rgba(0,0,0,0.5);
+	height: 100%;
+	width: 100%;
+}
+.contact_text {
+	padding: 10px 0px;
+}
+.input {
+	margin-bottom: 10px;
+	padding: 5px 0px 20px 20px;
+	font-family: Helvetica;
+	color: black;
+	background-color: white;
+	border: none;
+	-webkit-filter: opacity(70%);
+	filter: opacity(70%);
+}
+#submit_button {
+	color: white;
+	width: 200px;
+	height: 50px;
+	background-color: #0dc0c0;
+}
+.text_about p {
+	padding-bottom: 30px;
+}
+.redes {
+	color: #585555;
+}
+.redes ul {
+	list-style-type: none;
+}
+.redes li {
+	display: inline-block;
+	padding: 10px;
+}
+.redes a {
+	color: #585555;
+}
+.redes a:hover {
+	color: #0dc0c0;
+}
+.size {
+	font-size: 25px;
+}
+.titu{
+	font-size: 40px;
+	text-align: center;
+	margin-top: 20px;
+}
+
+.lorem {
+	padding-top: 20px;
+	padding-bottom: 30px;
+}
+.lorem h3 {
+	padding-bottom: 5px;
+}
+
+.lor{
+	padding: 70px 0px;
+
+}
+.icon {
+	position: relative;
+	left: 50px;
+	font-size: 20px;
+	color: #0dc0c0;
+}
+.blanco-cuadro-todo {
+	position: relative;
+	background-color: white;
+	padding: 14px;
+	padding-bottom: 18px;
+	margin-top: 17px;
+	-webkit-filter: drop-shadow(0px 0px 2px gray);
+}
+.blanco-cuadro-medida1 {
+	width: 529px;
+	margin-left: 35px;
+}
+.blanco-cuadro-medida2 {
+	width: 331px;
+	margin-top: 14%;
+}
+
+/*RECORTE DE IMAGEN*/
+.fondo {
+	width: 1110px;
+	height: 257px;
+    margin-top: 17px;
+    margin-left: -2px;
+    overflow: hidden;
+    position: relative;
+}
+.fondo img {
+    height: 705px;
+    margin: -61px 0 0 38px;
+}
+.letras-arriba {
+	position: absolute;
+	width: 55%;
+	margin-left: 25%;
+}
+/*Dentro de la imagen*/
+.top-letra1 {
+	margin-top: 9%;
+}
+.top-letra2 {
+	margin-top: 17%;
+}
+/*Texto dentro de los botones de promociones*/
+.promos {
+	font-size: 33px;
+}
+.promos2 {
+	font-size: 23px;
+}
+.ofertas {
+	width: 211px;
+	margin-top: 31px;
+}
